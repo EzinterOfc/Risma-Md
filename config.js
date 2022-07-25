@@ -41,7 +41,7 @@ global.urlnya = "https://chat.whatsapp.com/B9cQxA0NWrXHtFclMS5awJ"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '62 822-5228-5143'
+global.phn = '62 856-0038-0823'
 
 //============= Games ================//
 global.benar = '_*Benar*_'
