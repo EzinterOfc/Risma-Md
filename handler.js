@@ -30,13 +30,13 @@ module.exports = {
         global.namabot = conn.user.name
         global.packname = global.namabot
         global.author = global.data.owner
-        //global.author = '𝐉𝐚𝐫𝐨𝐭'
+        //global.author = 'Neo'
         global.wm2 = global.data.namabot + ' ' + global.data.owner
         global.wm = '© ᴛᴡᴏ ʜᴜɴᴅʀᴇᴅ'
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ᴛʜ・ʙᴏᴛ'
+        global.colong2 = 'ɴᴇᴏ・ʙᴏᴛ'
         global.kontak2 = [
-        ['6285600380823,'ᴛʜ・sᴀʟʟ', 'ᴅᴇᴠᴇʟᴏᴘᴇʀ ʙᴏᴛ', 'https://chat.whatsapp.com/B9cQxA0NWrXHtFclMS5awJ', true],
+        ['6285600380823,'ɴᴇᴏ・sᴀʟʟ', 'ᴅᴇᴠᴇʟᴏᴘᴇʀ ʙᴏᴛ', 'https://chat.whatsapp.com/B9cQxA0NWrXHtFclMS5awJ', true],
         ['6285600380823,'await this.getName('6285600380823@s.whatsapp.net'), 'ᴛʜ・sᴀʟʟ', 'https://chat.whatsapp.com/B9cQxA0NWrXHtFclMS5awJ', true], 
         ]
         global.bg = await (await fetch(img)).buffer()
